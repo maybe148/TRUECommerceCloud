@@ -20,8 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: js-storefront
+        working-directory: js-storefront/spartacusstore
 
       - name: Build Spartacus
         run: npm run build
-        working-directory: js-storefront
+        working-directory: js-storefront/spartacusstore
