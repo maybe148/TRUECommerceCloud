@@ -275,7 +275,6 @@
 
 <!-- https://learning.sap.com/learning-journeys/implement-an-integration-of-sap-s-4hana-cloud-with-sap-commerce-cloud/installing-required-extensions-and-add-ons_d7691285-d3af-4a38-aa7b-e7347b2407b2 -->
 <!-- -> Add Required Extensions and Add-ons -->
-	  <extension name= 'ysapcpiomsfulfillment' />
 	  <extension name= 'sapcpiadapter' />
 	  <extension name= 'sapcpicustomerexchange' />
 	  <extension name= 'sapcpicustomerexchangeb2b' />
